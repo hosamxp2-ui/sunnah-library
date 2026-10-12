@@ -1,0 +1,13 @@
+{
+  "name": "موسوعة السنة وشروحها",
+  "short_name": "السنة",
+  "description": "موسوعة حديثية تجريبية تربط الأحاديث بمصادرها وشروحها مع بيان حالة التوثيق.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8ef",
+  "theme_color": "#0c5a46",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
